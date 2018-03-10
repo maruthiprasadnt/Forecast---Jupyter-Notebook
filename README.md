@@ -1,4 +1,4 @@
-# Forecast---Jupyter-Notebook
+# Time series Forecast---Jupyter-Notebook
 Sales Forecasting using ARIMA
 
 STEPS TO DEVELOP A TIME SERIES SALES FORECASTING.
